@@ -1,0 +1,12 @@
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/application
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo.jpeg
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/shammas/Documents/WhatsApp_Ui/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
